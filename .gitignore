@@ -17,6 +17,9 @@ Thumbs.db
 # Logs
 *.log
 
+# Local working notes (not for the public repo)
+braindump.md
+
 # Python
 __pycache__/
 *.py[cod]
